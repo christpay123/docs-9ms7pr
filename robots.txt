@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hai1sg.saturadar88win.xyz/sitemap.xml
